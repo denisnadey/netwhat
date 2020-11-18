@@ -1,4 +1,4 @@
-# netwhat42
+# netwhat42 netwhat на русском языке
 
 **Questions : 37**.<br/><br/>
 
